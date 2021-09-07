@@ -1,0 +1,29 @@
+.users-users {
+    font-weight: bold;
+}
+
+.user {
+    margin: 15px;
+    padding:15px;
+    border: 1px solid black;
+}
+
+.user-id {
+    color: red;
+}
+
+.user-firstname {
+    font-weight: bold;
+}
+
+.user-lastname {
+    font-weight: bold;
+}
+
+.user-hobbies {
+    text-indent: 1em;
+}
+
+.user-hobbies-ul {
+    text-indent: 1em;
+}

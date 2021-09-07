@@ -1,0 +1,26 @@
+<videogames>
+    <videogame>
+        <title>The Last of Us II</title>
+        <company>Naughty Dog / SIE</company>
+        <awards>
+            <award>Game of the Year</award>
+            <award>Best Game Direction</award>
+            <award>Best Narrative</award>
+            <award>Best Audio Design</award>
+        </awards>
+    </videogame>
+    <videogame>
+        <title>Ghost of Tsushima</title>
+        <company>Sucker Punch / SIE</company>
+        <awards>
+            <award>Best Art Direction</award>
+        </awards>
+    </videogame>
+    <videogame>
+        <title>Tell Me Why</title>
+        <company>DONTNOD Entertainment / XBOX Game Studios</company>
+        <awards>
+            <award>Games for Impact</award>
+        </awards>
+    </videogame>
+</videogames>

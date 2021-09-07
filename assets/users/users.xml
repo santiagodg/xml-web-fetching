@@ -1,0 +1,29 @@
+<users>
+    <user>
+        <id>1</id>
+        <firstname>Santiago</firstname>
+        <lastname>Díaz Guevara</lastname>
+        <hobbies>
+            <hobby>Playing videogames</hobby>
+            <hobby>Watching TV shows</hobby>
+        </hobbies>
+    </user>
+    <user>
+        <id>2</id>
+        <firstname>Maximiliano</firstname>
+        <lastname>Contreras Serrano</lastname>
+        <hobbies>
+            <hobby>Learning japanese</hobby>
+            <hobby>Watching anime</hobby>
+        </hobbies>
+    </user>
+    <user>
+        <id>3</id>
+        <firstname>Jesús Abraham</firstname>
+        <lastname>Haros Madrid</lastname>
+        <hobbies>
+            <hobby>Trying out coffee</hobby>
+            <hobby>Going to restaurants</hobby>
+        </hobbies>
+    </user>
+</users>

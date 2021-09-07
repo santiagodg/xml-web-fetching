@@ -1,0 +1,21 @@
+.videogames-videogames {
+    font-weight: bold;
+}
+
+.videogame {
+    margin: 15px;
+    padding:15px;
+    border: 1px solid black;
+}
+
+.videogame-title {
+    font-weight: bold;
+}
+
+.videogame-awards {
+    text-indent: 1em;
+}
+
+.videogame-awards-ul {
+    text-indent: 1em;
+}
